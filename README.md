@@ -1,0 +1,2 @@
+# drag-and-drop-events-from-an-external-source-to-vue-scheduler
+A quick start project that shows how to drag and drop events from an external source to Syncfusion's vue Scheduler component. This project also includes a code snippet to add the Vue TreeView component to an existing Vue Scheduler app, and drag an item from the TreeView component into the Scheduler component as well as how to open the editor window before the item is added as an appointment to the Scheduler.
